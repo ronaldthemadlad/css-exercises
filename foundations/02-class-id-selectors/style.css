@@ -1,0 +1,27 @@
+.super {
+
+    background-color: rgb(241, 132, 150);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+#two {
+
+    color:blue;
+    font-size: 36px;
+
+}
+
+.super.duper {
+
+    font-size: 24px;
+
+}
+
+#four {
+
+    background-color: rgb(75, 177, 75);
+    font-weight: bold;
+    font-size: 24px;
+
+}
